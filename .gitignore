@@ -1,3 +1,7 @@
+# Config files
+/data/users_config_test.txt
+/data/users_output_test.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
